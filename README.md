@@ -31,7 +31,7 @@ Data from the CHIMERA challenge
 
 1. Normalization MRI data  
 2. Quantification of textual informaiton of Clinical Data
-Please see the details in the report and the code Pre_processing.py
+Please find the details in the report and the code Pre_processing.py
 
 
 ## Training  
