@@ -1,0 +1,36 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.13.9",
+  "startedAt": "2025-11-12T17:14:57.731648Z",
+  "program": "C:\\Users\\Yanming\\Desktop\\M31_Project\\Codes\\ProstateCancerPrognosis3\\Train.py",
+  "codePath": "Train.py",
+  "codePathLocal": "Train.py",
+  "email": "sunyanming18mtl@gmail.com",
+  "root": "C:\\Users\\Yanming\\Desktop\\M31_Project\\Codes\\ProstateCancerPrognosis3",
+  "host": "Qing",
+  "executable": "C:\\Users\\Yanming\\anaconda3\\envs\\pytorch_gpu\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3080 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "492739489792",
+      "used": "209221132288"
+    }
+  },
+  "memory": {
+    "total": "85798604800"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3080 Ti",
+      "memoryTotal": "12884901888",
+      "cudaCores": 10240,
+      "architecture": "Ampere",
+      "uuid": "GPU-0ab7b3d0-587f-0b91-acbe-59d2f30fdbb8"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "j14nxyfin8bp6emudccj6uiykrmnyuzy"
+}

@@ -1,0 +1,34 @@
+pytorch version:  2.8.0+cu129
+Start time:  2025-11-12 12:15:00.454363
+Start loading data and training:
+Start loading samples:
+Data-loading finished
+Total time for data loading:  16
+Start loading samples:
+Data-loading finished
+Total time for data loading:  3
+Total training samples:  76
+Model: <class 'torch.nn.parallel.data_parallel.DataParallel'>
+Devices: [0]
+C:\Users\Yanming\Desktop\M31_Project\Codes\ProstateCancerPrognosis3\Train.py:71: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler()
+epoch:  0 , train_loss: 4.0518 , train_c_index: 0.4840 , val_loss: 2.8177 , val_c_index: 0.4831
+epoch:  1 , train_loss: 3.8094 , train_c_index: 0.8400 , val_loss: 2.7614 , val_c_index: 0.5843
+epoch:  2 , train_loss: 3.7309 , train_c_index: 0.8581 , val_loss: 2.7521 , val_c_index: 0.5393
+epoch:  3 , train_loss: 3.5900 , train_c_index: 0.8893 , val_loss: 2.7335 , val_c_index: 0.5730
+epoch:  4 , train_loss: 3.4173 , train_c_index: 0.9024 , val_loss: 2.7093 , val_c_index: 0.6067
+epoch:  5 , train_loss: 3.2447 , train_c_index: 0.9262 , val_loss: 2.6910 , val_c_index: 0.6180
+epoch:  6 , train_loss: 3.0797 , train_c_index: 0.9336 , val_loss: 2.6746 , val_c_index: 0.6180
+epoch:  7 , train_loss: 2.9589 , train_c_index: 0.9467 , val_loss: 2.6584 , val_c_index: 0.6404
+epoch:  8 , train_loss: 2.8624 , train_c_index: 0.9557 , val_loss: 2.6723 , val_c_index: 0.6404
+epoch:  9 , train_loss: 2.7985 , train_c_index: 0.9557 , val_loss: 2.6804 , val_c_index: 0.6292
+epoch:  10 , train_loss: 2.7452 , train_c_index: 0.9565 , val_loss: 2.6947 , val_c_index: 0.6292
+epoch:  11 , train_loss: 2.6984 , train_c_index: 0.9598 , val_loss: 2.7148 , val_c_index: 0.6404
+epoch:  12 , train_loss: 2.6691 , train_c_index: 0.9606 , val_loss: 2.7192 , val_c_index: 0.6629
+epoch:  13 , train_loss: 2.6535 , train_c_index: 0.9619 , val_loss: 2.7204 , val_c_index: 0.6742
+epoch:  14 , train_loss: 2.6448 , train_c_index: 0.9623 , val_loss: 2.7198 , val_c_index: 0.6742
+epoch:  15 , train_loss: 2.6418 , train_c_index: 0.9639 , val_loss: 2.7200 , val_c_index: 0.6742
+Training finished
+Start time:  2025-11-12 12:15:00.454363
+End time:  2025-11-12 12:21:04.861630
+Total training duration:  364

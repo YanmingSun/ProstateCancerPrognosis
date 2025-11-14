@@ -1,0 +1,26 @@
+2025-11-12 12:33:32,083 INFO    MainThread:13728 [wandb_setup.py:_flush():80] Current SDK version is 0.23.0
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_setup.py:_flush():80] Configure stats pid to 13728
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_setup.py:_flush():80] Loading settings from C:\Users\Yanming\.config\wandb\settings
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_setup.py:_flush():80] Loading settings from C:\Users\Yanming\Desktop\M31_Project\Codes\ProstateCancerPrognosis3\wandb\settings
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_init.py:setup_run_log_directory():713] Logging user logs to C:\Users\Yanming\Desktop\M31_Project\Codes\ProstateCancerPrognosis3\wandb\run-20251112_123332-vgyipcqs\logs\debug.log
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_init.py:setup_run_log_directory():714] Logging internal logs to C:\Users\Yanming\Desktop\M31_Project\Codes\ProstateCancerPrognosis3\wandb\run-20251112_123332-vgyipcqs\logs\debug-internal.log
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_init.py:init():840] calling init triggers
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_init.py:init():845] wandb.init called with sweep_config: {}
+config: {'epochs': 15, '_wandb': {}}
+2025-11-12 12:33:32,084 INFO    MainThread:13728 [wandb_init.py:init():888] starting backend
+2025-11-12 12:33:34,354 INFO    MainThread:13728 [wandb_init.py:init():891] sending inform_init request
+2025-11-12 12:33:34,381 INFO    MainThread:13728 [wandb_init.py:init():899] backend started and connected
+2025-11-12 12:33:34,405 INFO    MainThread:13728 [wandb_init.py:init():969] updated telemetry
+2025-11-12 12:33:34,406 INFO    MainThread:13728 [wandb_init.py:init():993] communicating run to backend with 90.0 second timeout
+2025-11-12 12:33:34,745 INFO    MainThread:13728 [wandb_init.py:init():1040] starting run threads in backend
+2025-11-12 12:33:34,829 INFO    MainThread:13728 [wandb_run.py:_console_start():2504] atexit reg
+2025-11-12 12:33:34,829 INFO    MainThread:13728 [wandb_run.py:_redirect():2352] redirect: wrap_raw
+2025-11-12 12:33:34,829 INFO    MainThread:13728 [wandb_run.py:_redirect():2421] Wrapping output streams.
+2025-11-12 12:33:34,829 INFO    MainThread:13728 [wandb_run.py:_redirect():2444] Redirects installed.
+2025-11-12 12:33:34,832 INFO    MainThread:13728 [wandb_init.py:init():1080] run started, returning control to user process
+2025-11-12 12:39:37,407 INFO    MainThread:13728 [wandb_run.py:_finish():2270] finishing run sunyanming18mtl-concordia-university/ProstateCancerPrognosis_v3/vgyipcqs
+2025-11-12 12:39:37,408 INFO    MainThread:13728 [wandb_run.py:_atexit_cleanup():2469] got exitcode: 0
+2025-11-12 12:39:37,408 INFO    MainThread:13728 [wandb_run.py:_restore():2451] restore
+2025-11-12 12:39:37,408 INFO    MainThread:13728 [wandb_run.py:_restore():2457] restore done
+2025-11-12 12:39:37,974 INFO    MainThread:13728 [wandb_run.py:_footer_sync_info():3853] logging synced files
