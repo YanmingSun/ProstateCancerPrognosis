@@ -45,6 +45,7 @@ Inference_Overall.py
 
 ## Results  
 Folds	| Fold 0	| Fold 1	| Fold 2	| Fold 3	| Fold 4	| Entire dataset  
+| ----| --------|--------|---------|-------| -------|--------
 C-index	| 0.86	| 0.67	| 0.94	| 0.63	| 0.78	| 0.77  
 
 
