@@ -14,7 +14,7 @@ torchsummary
 SimpleITK  
 scipy  
 json  
-wandb: it is to monitor the training curves, users should sign in wandb and get their own API key  
+wandb  (It is to monitor the training curves, users should sign in wandb and get their own API key)  
 
 
 ## Dataset 
